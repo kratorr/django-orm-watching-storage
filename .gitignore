@@ -42,3 +42,4 @@ uitests/out/**
 debug*.log
 ptvsd*.log
 pydevd*.log
+.env
